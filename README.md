@@ -1,8 +1,4 @@
 # InformeTarea
-Modelo Informe de las tareas
-
-
-# Informe
 
 
 1. OBJETIVOS
