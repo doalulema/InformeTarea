@@ -38,12 +38,16 @@ Para su desarrollo debe evitarse en lo posible redactar párrafos continuos de t
 En este punto se debe explicar cómo funcionan la implementación del circuito, programa o resolución de problemas.
 La soolución deb estar en esta sección.
 
-4. CONCLUSIONES
+4. VIDEO
+
+Aqui den estar el link de youtube de los videos en los que se explique el funcionamiento y la implementación del proyecto.
+
+
+5. CONCLUSIONES
 
 Se estable las conclusiones de cada asunto investigado, implicaciones para la teoría y resultados de las experiencias. Estos siempre estarán en relaciona los objetivos generales y específicos.
 
-
-10. BIBLIOGRAFÍA
+6. BIBLIOGRAFÍA
 
 Emplear normas APA para el informe e IEEE para el artículo
 
