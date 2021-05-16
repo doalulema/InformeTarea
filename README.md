@@ -21,7 +21,7 @@ Al finalizar la investigación, los objetivos han de ser identificables con los 
 
 Considerar la Taxonomía de Bloom
 
-2. MARCO TEÓRICO 
+2. MARCO TEÓRICO (RESUMEN)
 
 Este punto requiere que el estudiante realice una amplia consulta bibliográfica sobre el tema de su trabajo.
 
@@ -33,47 +33,12 @@ Se describe la teoría o conjunto teórico apropiado con la cual el investigador
 
 Para su desarrollo debe evitarse en lo posible redactar párrafos continuos de texto, para lo cual se debe utilizar  mentefactos, cuadro comparativos, esquemas o mapas conceptuales
 
-3. DIAGRAMAS
+3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
-Los diagramas hacen referencia a una representación visual de lo que se ha desarrollado enfocado al software y al hardware. Los diagramas son:
-* Diagramas de bloques.
-* Diagramas UML. (casos de uso-clase)
-* Diagramas eléctricos.
-* Diagramas esquemáticos.
+En este punto se debe explicar cómo funcionan la implementación del circuito, programa o resolución de problemas.
+La soolución deb estar en esta sección.
 
-Adicionalmente para el caso de diagramas eléctricos se debe hacer la explicación de los circuitos.
-
-![](https://github.com/doalulema/Informe/blob/master/img/Diagrama1.jpg)
-
-![](https://github.com/doalulema/Informe/blob/master/img/Diagrama2.jpg)
-
-![](https://github.com/doalulema/Informe/blob/master/img/Diagrama4.jpg)
-
-
-4. LISTA DE COMPONENTES
-
-En este punto se indicará en una tabla todos los recursos que se han empleado para su desarrollo.
-
-5. EXPLICACIÓN
-
-En este punto se debe explicar cómo funcionan la implementación del circuito o programa.
-
-6. MANUAL DE USUARIO
-
-Constituye un documento en el cual se ilustra con imágenes y un lenguaje claro cómo utilizar la aplicación, evitando mencionar código. Además debe presentar como armar, instalar o conectar la aplicación, evitando los esquemas circuitales.
-
-
-7.- DESCRIPCIÓN DE PRERREQUISITOS Y CONFIGURACIÓN
-
-En este punto se debe especificar las aplicaciones secundarias necesarias, la configuración del terminal, así como cualquier otra información necesaria para que pueda funcionar el proyecto, tanto en hardware como en software.
-
-
-8. APORTACIONES
-
-En este punto se indicará todo lo adicional fruto de lo investigado que se haya agregado al trabajo.
-
-
-9. CONCLUSIONES
+4. CONCLUSIONES
 
 Se estable las conclusiones de cada asunto investigado, implicaciones para la teoría y resultados de las experiencias. Estos siempre estarán en relaciona los objetivos generales y específicos.
 
@@ -81,6 +46,4 @@ Se estable las conclusiones de cada asunto investigado, implicaciones para la te
 10. BIBLIOGRAFÍA
 
 Emplear normas APA para el informe e IEEE para el artículo
-
-11. ANEXOS
 
