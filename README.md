@@ -52,3 +52,6 @@ Se estable las conclusiones de cada asunto investigado, implicaciones para la te
 
 Emplear normas APA.
 
+RUBRICA
+
+![](https://github.com/doalulema/Informe/blob/master/img/Diagrama1.jpg)
