@@ -54,4 +54,4 @@ Emplear normas APA.
 
 RUBRICA
 
-![](https://github.com/doalulema/Informe/blob/master/img/Diagrama1.jpg)
+![](https://github.com/doalulema/InformeTarea/blob/main/Tarea.png)
