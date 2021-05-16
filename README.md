@@ -50,5 +50,5 @@ Se estable las conclusiones de cada asunto investigado, implicaciones para la te
 
 6. BIBLIOGRAFÍA
 
-Emplear normas APA para el informe e IEEE para el artículo
+Emplear normas APA.
 
